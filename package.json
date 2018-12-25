@@ -1,0 +1,25 @@
+{
+  "name": "express-template-engine-assignment",
+  "version": "1.0.0",
+  "description": "Template ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NasreenUstad/express-template-engine-assignment.git"
+  },
+  "author": "Nasreen Ustad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NasreenUstad/express-template-engine-assignment/issues"
+  },
+  "homepage": "https://github.com/NasreenUstad/express-template-engine-assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
